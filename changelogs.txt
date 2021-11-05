@@ -1,23 +1,5 @@
- Build #241021
-      
-* Updated main menu shader. 
-* New speed mode (AAC2), still testing btw 
-- Old command system 
-! Fixing command system. 
-! Making target strafe. 
-* Updated NoSlow. 
-* New ArrayList color. 
-* Major bug fixes. 
-           
- Build #251021 
-           
-- Removed commands. (It will be added back.) 
-           
- Build #291021 
-         
- + Added commands. 
-           
  Build #311021 
            
-* Added shader on other menus. 
-+ Discord Rich Presence 
++ Breaker. 
++ Disabler (Ping Spoof and Verus).
+* Major bug fixes.
