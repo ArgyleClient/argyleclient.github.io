@@ -3,8 +3,12 @@
 + Breaker. 
 + Disabler (Ping Spoof and Verus).
 * Major bug fixes.
+
+
  Build #061121
 
 * Better interface.
 * Updated discord RPC.
 + AutoUpdates.
+* Security updates.
+* Bug fixes.
